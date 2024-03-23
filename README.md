@@ -90,19 +90,19 @@ print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
 ```
 
 ## Output:
-##Profit prediction:
+## Profit prediction:
 ![image](https://github.com/inesh-2384/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/146412203/24b5a8bf-c811-4313-8662-fab744c79704)
-##Function:
+## Function:
 ![image](https://github.com/inesh-2384/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/146412203/5e42bdce-d1bd-487a-a1da-15502213d0a8)
-##GRADIENT DESCENT:
+## GRADIENT DESCENT:
 ![image](https://github.com/inesh-2384/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/146412203/640a686c-274c-4a12-b827-2700fb3bc9da)
-##COST FUNCTION USING GRADIENT DESCENT:
+## COST FUNCTION USING GRADIENT DESCENT:
 ![image](https://github.com/inesh-2384/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/146412203/1864e8a1-d847-4202-936a-9f845b96c146)
-##LINEAR REGRESSION USING PROFIT PREDICTION:
+## LINEAR REGRESSION USING PROFIT PREDICTION:
 ![image](https://github.com/inesh-2384/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/146412203/f7934c54-4327-4dc0-a0d2-f798dbe3035a)
-##PROFIT PREDICTION FOR A POPULATION OF 35000:
+## PROFIT PREDICTION FOR A POPULATION OF 35000:
 ![image](https://github.com/inesh-2384/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/146412203/1381d1f2-3453-4901-9ffe-1a96586ab8f3)
-##PROFIT PREDICTION FOR A POPULATION OF 70000:
+## PROFIT PREDICTION FOR A POPULATION OF 70000:
 ![image](https://github.com/inesh-2384/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/146412203/451f4b9c-7907-48f2-9c85-9a56883bbb60)
 
 
