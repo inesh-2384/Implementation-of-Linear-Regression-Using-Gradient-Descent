@@ -109,7 +109,17 @@ RegisterNumber: 212223220036
 ### Dataset Preview
 <img width="694" height="165" alt="image" src="https://github.com/user-attachments/assets/29180800-df15-461c-8fd2-4fb9abaaed05" />
 
-### 
+### Optimized Parameters
+<img width="312" height="123" alt="image" src="https://github.com/user-attachments/assets/6f175c7d-22f7-4bd8-beb7-eb38dced6859" />
+
+### Final Cost
+<img width="328" height="38" alt="image" src="https://github.com/user-attachments/assets/006027dd-5f8f-4a69-9eea-8ca18eee797f" />
+
+### Convergence Graph
+<img width="721" height="584" alt="image" src="https://github.com/user-attachments/assets/c2b9d370-152d-4c2a-84dd-b2f3f15cf403" />
+
+### Prediction Result
+<img width="531" height="52" alt="image" src="https://github.com/user-attachments/assets/3dbf57a3-e6c4-4e12-930b-5e1a4f6930a4" />
 
 
 
