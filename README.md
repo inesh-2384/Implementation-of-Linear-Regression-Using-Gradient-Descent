@@ -90,8 +90,10 @@ print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
 ```
 
 ## Output:
+```
 Developed by: INESH.N
 RegisterNumber: 212223220036
+```
 ## Profit prediction:
 ![image](https://github.com/inesh-2384/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/146412203/24b5a8bf-c811-4313-8662-fab744c79704)
 ## Function:
